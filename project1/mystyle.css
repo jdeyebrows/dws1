@@ -3,6 +3,10 @@ p {
     Letter-Spacing: 0.05em;
 }
 
+h1, h2, h3 {
+    box-shadow: 5px 5px 5px #777777;
+}
+
 h1 {
     font-size: 3em;
     display: block;
