@@ -30,6 +30,10 @@ h3 {
     
 p {
     font-family: Helvetica, Arial, sans-serif;
-}    
+}   
+
+blockquote {
+    font-style: Italic
+}
 
 
