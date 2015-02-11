@@ -6,7 +6,8 @@ body {
 
 h1 {
     font-size: 3em;
-    background-color: rgba(176,196,222,0.5);
+    color: #FFFFFF;
+    background-color: rgb(176,196,222);
 }
 h2 {
     font-size: 2em;
