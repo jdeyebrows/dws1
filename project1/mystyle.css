@@ -4,6 +4,8 @@ body {
     Letter-Spacing: 0.12em;
     background-color: #F0FFFF;
 }
-h1 {
-    color: #8B0000;
+h1, h2 {
+    text-align: center;
+    color: #000080;
 }
+
