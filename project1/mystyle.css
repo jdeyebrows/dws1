@@ -1,11 +1,9 @@
-p {
+body {
+    font-size: 85%;
     font-family: "Arial", Courier, Monospace;
-    Letter-Spacing: 0.10em;
-    color: #696969;
-    }
-    
-background-color: #F0FFFF;
-    }
-    h1 {
+    Letter-Spacing: 0.12em;
+    background-color: #F0FFFF;
+}
+h1 {
     color: #8B0000;
-    }
+}
