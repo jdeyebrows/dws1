@@ -1,10 +1,10 @@
-body {
-    p {
+p {
     font-family: "Arial", Courier, Monospace;
     Letter-Spacing: 0.10em;
     color: #696969;
     }
-    background-color: #F0FFFF;
+    
+background-color: #F0FFFF;
     }
     h1 {
     color: #8B0000;
