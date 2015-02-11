@@ -1,15 +1,15 @@
 body {
     font-size: 85%;
-    font-family: "Arial", Courier, Monospace;
     Letter-Spacing: 0.12em;
     background-color: #F0FFFF;
+}
 
-}
-h1, h2, h3 {
-    text-align: center;
-    color: #000080;
-    @font-face {
-    font-family: 'Arimo', sans-serif;
-}
-}
+h1, h2, h3  h1 {
+    display: block;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 2em;
+    
+    font-weight: bold;
+    }
+
 
