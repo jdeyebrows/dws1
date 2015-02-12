@@ -4,7 +4,7 @@
        src: url('../fonts/fe.ttf') format('truetype');
 }
 
-h1, h2, h3, ol, ul {
+h1 {
       font: 'Federation', Helvetica, Arial, sans-serif; 
 }
 
