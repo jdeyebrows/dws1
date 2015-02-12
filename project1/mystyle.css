@@ -2,7 +2,10 @@
     font-family: myWebFont;
     src: url(sansation_light.woff);
     }
-
+    
+body {
+    width: 80%
+}
 p {
     font-size: 85%;
     Letter-Spacing: 0.05em;
