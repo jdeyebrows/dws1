@@ -1,4 +1,9 @@
        /* to an unvisited link */
+@font-face {
+       font-family: "Federation";
+       src: url("../fonts/fe.ttf") format("truetype");
+}
+
 a:link {
     color: #FFA500;
 }
