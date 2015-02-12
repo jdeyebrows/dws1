@@ -1,5 +1,9 @@
     @font-face {font-family:"Federation";src:url("fe.eot?") format("eot"),url("fe.woff") format("woff"),url("fe.ttf") format("truetype"),url("fe.svg#Federation") format("svg");font-weight:normal;font-style:normal;}
     
+body {
+    font-family:"Federation"
+    
+}    
     /* to an unvisited link */
 a:link {
     color: #FFA500;
@@ -23,7 +27,6 @@ a:active {
    /* Applied to all heading and lists */
    
 p, h1, h2, h3, ul, ol {
-    font-family:"Federation"
     width: 800px;
     margin-top: 20px;
     margin-left: auto;
