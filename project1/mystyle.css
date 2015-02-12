@@ -3,6 +3,26 @@
     src: url(sansation_light.woff);
     }
     
+    /* to an unvisited link */
+a:link {
+    color: #FFA500;
+}
+
+    /* to a visited link */
+a:visited {
+    color: #8B0000;
+}
+
+    /* mousing over link */
+a:hover {
+    color: #FF8C00;
+}
+
+    /* selected link */
+a:active {
+    color: #DC143C;
+}
+    
    /* Applied to all heading and lists */
    
 p, h1, h2, h3, ul, ol {
