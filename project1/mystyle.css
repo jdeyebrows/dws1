@@ -3,9 +3,11 @@
     src: url(sansation_light.woff);
     }
     
-body {
-    width: 55%
-    align: center
+center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    background-color: #b0e0e6;
 }
 p {
     font-size: 85%;
