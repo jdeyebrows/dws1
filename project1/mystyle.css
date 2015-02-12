@@ -47,7 +47,7 @@ h3 {
 p {
     font-family: Helvetica, Arial, sans-serif;
 }   
-
+/* Indicated font style for blockquote */
 blockquote {
     font-style: Italic
 }
