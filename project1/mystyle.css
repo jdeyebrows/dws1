@@ -1,13 +1,4 @@
        /* to an unvisited link */
-@font-face {
-       font-family: "Federation";
-       src: url('../fonts/fe.ttf') format('truetype');
-}
-
-h1 {
-      font: 'Federation', Helvetica, Arial, sans-serif; 
-}
-
 a:link {
     color: #FFA500;
 }
