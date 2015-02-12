@@ -3,10 +3,10 @@
     src: url(sansation_light.woff);
     }
     
-center {
+body {
     width: 55%;
-    background-color: #b0e0e6;
 }
+
 p {
     font-size: 85%;
     Letter-Spacing: 0.05em;
