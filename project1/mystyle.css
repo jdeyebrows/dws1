@@ -5,6 +5,10 @@
     
 p, h1, h2, h3 {
     width: 800px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-bottom: 20px;
+    margin-right: auto;
 }
 
 p#example {
