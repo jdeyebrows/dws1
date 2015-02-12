@@ -23,6 +23,7 @@ a:active {
    /* Applied to all heading and lists */
    
 p, h1, h2, h3, ul, ol {
+    font-family:"Federation"
     width: 800px;
     margin-top: 20px;
     margin-left: auto;
