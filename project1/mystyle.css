@@ -5,6 +5,11 @@
     
 body {
     width: 55%;
+    margin-top: 300;
+    margin-bottom: 300;
+    margin-right: 250;
+    margin-left: 250;
+}
 }
 
 p {
