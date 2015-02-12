@@ -3,6 +3,8 @@
     src: url(sansation_light.woff);
     }
     
+   /* Applied to all heading and lists */
+   
 p, h1, h2, h3, ul, ol {
     width: 800px;
     margin-top: 20px;
