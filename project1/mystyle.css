@@ -4,6 +4,10 @@
        src: url("../fonts/fe.ttf") format("truetype");
 }
 
+body {
+      font: "Federation", Helvetica, Arial, sans-serif; 
+}
+
 a:link {
     color: #FFA500;
 }
