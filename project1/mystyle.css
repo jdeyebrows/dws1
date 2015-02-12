@@ -60,7 +60,12 @@ p {
 }   
 /* Indicated font style for blockquote */
 blockquote {
-    font-style: Italic
+    width: 800px;
+    font-style: Italic;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-bottom: 20px;
+    margin-right: auto;
 }
 
 ul {
