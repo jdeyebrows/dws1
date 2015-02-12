@@ -3,7 +3,7 @@
     src: url(sansation_light.woff);
     }
     
-p, h1, h2, h3 {
+p, h1, h2, h3, ul, ol {
     width: 800px;
     margin-top: 20px;
     margin-left: auto;
