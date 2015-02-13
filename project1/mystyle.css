@@ -73,12 +73,8 @@ h3 {
     font-size: 1.5em;
     font-style: italic;
     color: rgb(0,0,128);
-}
-
-
-p {
-    font-family: Helvetica, Arial, sans-serif;
 }   
+
 /* Indicated font style for blockquote */
 blockquote {
     width: 800px;
