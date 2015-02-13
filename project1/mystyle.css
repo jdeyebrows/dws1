@@ -1,3 +1,13 @@
+@font-face {
+       font-family: 'Federation';
+       src: url('fonts/fe.ttf')
+format('ttf')       
+}
+
+h1, h2, h3 {
+       font-family: Federation, georgia, serif ;
+}
+
 body {
        font-family: arial;
 }
