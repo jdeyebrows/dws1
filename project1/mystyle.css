@@ -2,6 +2,11 @@ body {
     background-color: #DCDCDC;
 }
 
+#container {
+    border: 1px solid #00008B;
+    background-color: #DCDCDC;
+}
+
 img {
    padding:3px;
    border:3px solid #00008B;
