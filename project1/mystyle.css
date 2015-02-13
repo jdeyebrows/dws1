@@ -2,6 +2,11 @@ body {
     background-color: #DCDCDC;
 }
 
+img {
+   padding:1px;
+   border:1px solid #021a40;
+}
+
 @font-face {
        font-family: 'Federation';
        src: url('fonts/fe.ttf')
