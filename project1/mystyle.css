@@ -2,10 +2,9 @@ body {
     background-color: #DCDCDC;
 }
 
-#container {
-    border: 1px solid #00008B;
-    background-color: #DCDCDC;
-    padding: 10px;
+.container {
+    position: relative;
+    width: 75%;
 }
 
 img {
