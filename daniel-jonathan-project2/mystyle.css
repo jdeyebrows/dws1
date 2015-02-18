@@ -1,0 +1,98 @@
+       /* to an unvisited link */
+a:link {
+    color: #FFA500;
+}
+
+    /* to a visited link */
+a:visited {
+    color: #8B0000;
+}
+
+    /* mousing over link */
+a:hover {
+    color: #FF8C00;
+}
+
+    /* selected link */
+a:active {
+    color: #DC143C;
+}
+    
+   /* Applied to all heading and lists */
+   
+p, h1, h2, h3, ul, ol {
+    width: 800px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-bottom: 20px;
+    margin-right: auto;
+}
+
+p#example {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-bottom: 20px;
+    margin-right: auto;
+}
+
+p {
+    font-size: 85%;
+    Letter-Spacing: 0.05em;
+    line-height: 130%;
+    display: inherit;
+}   
+    
+
+
+    /* Applied to both headers 1 and 2 */
+h1, h2 {
+    box-shadow: 5px 5px 5px #A9A9A9;
+    text-align: center;
+    border-radius: 4px;
+    text-shadow: 2px 2px 2px #00008B;
+}
+
+h1 {
+    font-size: 3em;
+    display: block;
+    color: #FFFFFF;
+    background-color: rgba(0,0,128,0.8);
+    padding: 20px;
+}
+h2 {
+    display: block;
+    color: #FFA500;
+    border: 2px solid #FFA500;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 2em;
+    background-color: rgba(112,128,144,0.8);
+}
+h3 {
+    font-family: Arial bold;
+    font-size: 1.5em;
+    font-style: italic;
+    color: rgb(0,0,128);
+}
+
+
+p {
+    font-family: Helvetica, Arial, sans-serif;
+}   
+/* Indicated font style for blockquote */
+blockquote {
+    width: 800px;
+    font-style: Italic;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-bottom: 20px;
+    margin-right: auto;
+}
+
+ul {
+    list-style-type: square
+}
+ol {
+    list-style-type: upper-alpha;
+}
+
