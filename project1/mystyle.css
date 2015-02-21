@@ -1,6 +1,9 @@
 
 
 body {
+    display: block;
+    color: #FFFFFF;
+    padding: 20px;
     background-color: #DCDCDC;
     width: 800px;
     padding: 10px;
