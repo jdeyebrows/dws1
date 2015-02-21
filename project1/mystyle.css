@@ -2,6 +2,13 @@ body {
     background-color: #DCDCDC;
 }
 
+div {
+    width: 900px;
+    padding: 20px;
+    border: 20px #A9A9A9;
+    margin: 25px;
+}
+
 img {
    padding:3px;
    border:3px solid #00008B;
