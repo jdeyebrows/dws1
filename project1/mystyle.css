@@ -1,12 +1,12 @@
-body {
-    background-color: #DCDCDC;
+div {
+    width: 8000px;
+    padding: 10px;
+    border: 5px #A9A9A9;
+    margin: 0;
 }
 
-div {
-    width: 900px;
-    padding: 20px;
-    border: 20px #A9A9A9;
-    margin: 25px;
+body {
+    background-color: #DCDCDC;
 }
 
 img {
