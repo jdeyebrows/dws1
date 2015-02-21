@@ -3,7 +3,6 @@
 body {
     width: 800px;
     padding: 10px;
-    border-width: 3px #000080;
     margin-top: 20px;
     margin-left: auto;
     margin-bottom: 20px;
@@ -84,13 +83,11 @@ h1, h2 {
 
 h1 {
     font-size: 3em;
-    display: block;
     color: #FFFFFF;
     background-color: rgba(0,0,128,0.8);
     padding: 20px;
 }
 h2 {
-    display: block;
     color: #FFA500;
     border: 2px solid #FFA500;
     padding: 10px;
