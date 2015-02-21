@@ -4,7 +4,7 @@ body {
     display: block;
     width: 800px;
     padding: 10px;
-    border: 3px #000080;
+    border-width: 3px #000080;
     margin-top: 20px;
     margin-left: auto;
     margin-bottom: 20px;
