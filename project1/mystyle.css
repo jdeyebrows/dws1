@@ -1,10 +1,6 @@
 
 
 body {
-    display: block;
-    color: #FFFFFF;
-    padding: 20px;
-    background-color: #DCDCDC;
     width: 800px;
     padding: 10px;
     border: 3px #000080;
@@ -12,6 +8,10 @@ body {
     margin-left: auto;
     margin-bottom: 20px;
     margin-right: auto;
+    display: block;
+    color: #FFFFFF;
+    padding: 20px;
+    background-color: #DCDCDC;
 }
 
 img {
