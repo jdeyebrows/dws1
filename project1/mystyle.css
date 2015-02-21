@@ -51,7 +51,6 @@ a:active {
    /* Applied to all heading and lists */
    
 p, h1, h2, h3, ul, ol {
-    width: 800px;
     margin-top: 20px;
     margin-left: auto;
     margin-bottom: 20px;
@@ -69,7 +68,6 @@ p {
     font-size: 85%;
     Letter-Spacing: 0.05em;
     line-height: 130%;
-    display: inherit;
 }   
     
 
@@ -106,7 +104,6 @@ h3 {
 
 /* Indicated font style for blockquote */
 blockquote {
-    width: 800px;
     font-style: Italic;
     margin-top: 20px;
     margin-left: auto;
