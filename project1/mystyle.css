@@ -32,7 +32,7 @@ img.medium {
 }
 
 img.align-left {
-    
+    float: left;
 }
 
 @font-face {
