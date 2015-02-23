@@ -3,9 +3,9 @@
 body {
     width: 80%;
     padding: 10px;
-    margin-top: 5%;
+    margin-top: 2%;
     margin-left: auto;
-    margin-bottom: 5%;
+    margin-bottom: 2%;
     margin-right: auto;
 }
 
@@ -14,9 +14,9 @@ div {
     border: 1px solid #FFA500;
     border-radius: 4px;
     padding: 10px;
-    margin-top: 5%;
+    margin-top: 2%;
     margin-left: auto;
-    margin-bottom: 5%;
+    margin-bottom: 2%;
     margin-right: auto;
 }
     
@@ -63,16 +63,16 @@ a:active {
    /* Applied to all heading and lists */
    
 p, h1, h2, h3, ul, ol {
-    margin-top: 5%;
+    margin-top: 2%;
     margin-left: auto;
-    margin-bottom: 5%;
+    margin-bottom: 2%;
     margin-right: auto;
 }
 
 p#example {
-    margin-top: 5%;
+    margin-top: 2%;
     margin-left: auto;
-    margin-bottom: 5%;
+    margin-bottom: 2%;
     margin-right: auto;
 }
 
