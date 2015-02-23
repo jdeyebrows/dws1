@@ -8,6 +8,11 @@ body {
     margin-bottom: 20px;
     margin-right: auto;
 }
+
+div {
+    background-color: #CCCCFF;
+    border: 1px solid #000000;
+}
     
 
 img {
