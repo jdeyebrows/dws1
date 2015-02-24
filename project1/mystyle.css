@@ -21,6 +21,9 @@ div {
     overflow: auto;
 }
     
+.clear {
+    clear: left;
+}    
 
 img {
    padding:3px;
