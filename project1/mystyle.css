@@ -118,6 +118,8 @@ h3 {
     font-style: italic;
     color: rgb(0,0,128);
     width: 45%;
+    float: right;
+    margin-right: 10px;
 }   
 
 /* Indicated font style for blockquote */
