@@ -94,8 +94,6 @@ h1, h2 {
     text-align: center;
     border-radius: 4px;
     text-shadow: 2px 2px 2px #00008B;
-    float: left;
-    margin-right: 10px;
 }
 
 h1 {
@@ -119,8 +117,6 @@ h3 {
     font-style: italic;
     color: rgb(0,0,128);
     width: 45%;
-    float: right;
-    margin-right: 10px;
 }   
 
 /* Indicated font style for blockquote */
